@@ -1,5 +1,5 @@
 # NLP Project Proposal
-# Subtitle-Translation
+# Subtitle Translation
 
 Usage of internet which is common communication and access tool increased nowadays. we can't ignore the usage.
 At the same time people can not watch all foreign movie and series which in on vision on people's own language.So people's large part watch old and new movie and series on the internet.That's so common our country.
@@ -13,3 +13,10 @@ http://www.syedgakbar.com/projects/dst
 http://www.subsedit.com/translate
 
 http://www.subtranslate.com/
+
+#Steps
+
+Translate a txt file using https://translate.google.com.tr/ or https://www.bing.com/translator/ with java
+
+Create dataset using OpenNLP for recreate sentences
+
